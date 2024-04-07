@@ -1,12 +1,35 @@
+## 👋 Welcome !
+**欢迎来到[来个 offer](https://laigeoffer.cn/)！这是一个民间开源实战项目社区，旨在帮助更多的同学拿到更好的 offer，目前有以下几个热门项目，欢迎 Star ⭐ 关注~**
 
-## 🎯实战项目
+## 🎯 实战项目
 
 * [PmHub](https://pmhub.laigeoffer.cn/
 )：⭐️一套智能项目管理系统，包括用户、流程、项目管理、认证等微服务，一套成熟的企业级项目管理解决方案。
 * [技术派](https://paicoding.com)：⭐️一款好用又强大的开源社区，已帮助很多同学在校招中斩获满意的 offer。
 * 更多新的项目，敬请期待...
+  
 
-## 🫵关于组织
+## 🔗 如何加入
+>要走得快，就一个人走；要走得远，就一起走。
+
+参与开源项目，对于个人的成长是有很大帮助的，相信很多小伙伴都有体会。
+
+如果你热爱开源，或者抱着一颗好奇的心，不妨加入来个 offer 组织，和我们一起维护项目，共同成长。可以通过以下方式加入：
+
+
+发送邮件到 canghe0818@gmail.com，写明你的 GitHub ID，如：[freestylefly](https://github.com/freestylefly)。
+默认情况下，在你加入我们之后，你作为 GitHub laigeoffer 组织成员的信息是处于隐藏状态的。如果你希望在你的个人 GitHub 资料页上展示 Doocs 组织，你可以在此链接 https://github.com/orgs/doocs/people 处将你的信息从 private “**私有**”改为 public “**公开**”。当然，我们推荐设置为公开。
+
+**注意**，刚开始加入，你**暂时**不会有项目的直接 write 权限，因为我们不确定你的提交是否符合项目规范。
+
+你可以 fork 任何一个感兴趣的项目到你的个人 GitHub 帐户下，对项目作出修改后，提交你的 PR。Doocs 维护者会对你的提交内容进行 review。或许你最初的提交并不规范，这也没关系，多尝试提交，你会逐渐熟悉 GitHub 的各种交互操作，并且形成规范。当你的提交一直很符合项目的规范性，Doocs 维护者会将你添加到对应项目的 Collaborators 列表中，共同维护好项目。
+
+如果你不熟悉 GitHub 操作流程，可以参考[这篇文章](https://github.com/firstcontributions/first-contributions/blob/main/translations/README.zh-cn.md)。
+
+laigeoffer 期待你的加入。
+
+
+## 🫵 关于组织
 
 创始人沉默王二，原创公众号“沉默王二”的作者，累计 18 万+读者关注，写出过无数篇 10 万+，帮助很多同学成功拿到了满意的 offer。
 
@@ -34,16 +57,16 @@
 
 
 
-## :sparkling_heart:支持这个项目
+## :sparkling_heart: 支持开源项目
 
-如果你正在使用这个项目并感觉良好，或只是想要支持我们继续开发，你可以通过如下*任意* 方式支持我：
+如果你正在使用我们的项目并感觉良好，或只是想要支持我们继续开发，你可以通过如下*任意* 方式支持我们：
 
-1. *Star* 并 分享这个项目 :rocket: 
+1. *Star* 并 分享我们的项目 :rocket: 
 2. 关注公众号`苍何`，回复`666`，可获取 [2000G 学习资源](https://laigeoffer.cn/)
 
 ![](https://cdn.tobebetterjavaer.com/stutymore/%E6%8B%BF%E4%B8%AAoffer%E5%85%B3%E6%B3%A8.jpg)
 
-1. 谢谢！:heart:
+3. 谢谢！❤️:
 
 <img src="https://cdn.tobebetterjavaer.com/stutymore/%E8%B5%9E%E8%B5%8F%E7%A0%812.jpg" alt="微信搜索苍何" width=150>
 
@@ -53,7 +76,7 @@
 
 :heart:感谢支持来个 offer 的每一个同学
 
-:heart:感谢为 PmHub 这个项目贡献代码的每一个同学 → [Contributors](https://github.com/laigeoffer/pmhub/graphs/contributors)
+:heart:感谢为来个 offer 组织贡献代码的每一个同学 → [Contributors](https://github.com/laigeoffer/pmhub/graphs/contributors)
 
 ## 交流群
 
@@ -62,11 +85,11 @@
     <tr>
       <td align="center" valign="middle">
         <img src="https://cdn.tobebetterjavaer.com/stutymore/%E6%A0%87%E5%87%86.png" class="no-zoom" style="width:120px;margin: 10px;">
-        <p>PmHub微信群(添加我微信备注"加群")</p>
+        <p>来个 offer 官方微信群(添加我微信备注"加laigeoffer群")</p>
       </td>
       <td align="center" valign="middle">
         <img src="https://cdn.tobebetterjavaer.com/stutymore/qq-pmhub.jpg" class="no-zoom" style="width:120px;margin: 10px;">
-        <p>PmHub QQ群: 956565862</p>
+        <p>来个 offer 官方 QQ群: 956565862</p>
       </td>
     </tr>
   </tbody>
