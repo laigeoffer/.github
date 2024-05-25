@@ -18,7 +18,7 @@
 
 
 发送邮件到 canghe0818@gmail.com，写明你的 GitHub ID，如：[freestylefly](https://github.com/freestylefly)。
-默认情况下，在你加入我们之后，你作为 GitHub laigeoffer 组织成员的信息是处于隐藏状态的。如果你希望在你的个人 GitHub 资料页上展示 Doocs 组织，你可以在此链接 https://github.com/orgs/doocs/people 处将你的信息从 private “**私有**”改为 public “**公开**”。当然，我们推荐设置为公开。
+默认情况下，在你加入我们之后，你作为 GitHub laigeoffer 组织成员的信息是处于隐藏状态的。如果你希望在你的个人 GitHub 资料页上展示 Doocs 组织，你可以在此链接 [[https://github.com/orgs/doocs/people](https://github.com/orgs/laigeoffer/people)](https://github.com/orgs/laigeoffer/people) 处将你的信息从 private “**私有**”改为 public “**公开**”。当然，我们推荐设置为公开。
 
 **注意**，刚开始加入，你**暂时**不会有项目的直接 write 权限，因为我们不确定你的提交是否符合项目规范。
 
